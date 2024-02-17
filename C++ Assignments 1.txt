@@ -1,0 +1,46 @@
+﻿C++ Assignments 1
+            BASIC
+RAGHWESH RATHOUR
+
+
+
+
+Q1. How can you output “Physics” and “Wallah” in two different lines in C++?
+Answer- We can put “Physics” and “Wallah” in two different line using  <<endl; and \n.
+
+
+Q2. Write a program to print 10 using 2 positive numbers less than 6 in C++ as output.
+Answer-  Check Screenshot 
+
+
+Q3. How much space does the following data types take?
+* int
+* bool
+* float
+Answer- 1. Int - int data types takes 2 bytes of space in memory (32-bit o/s).
+              2. bool - bool data types take 4 bytes of space in memory.
+              3. float - float data types take 4 bytes of space in memory.
+
+
+Q4. What is the output of this program?
+int main() {
+int a = 4;
+int b = 5;
+a++, b--;
+cout << ++a << " " << b--;
+}
+Answer- OUTPUT will be:    6  4
+
+
+Q5. Write a program to find the circumference of a circle with radius 10 in C++.
+Answer-   Check Screenshot
+
+
+Q6. How many of these can be a variable name ?
+* 01Pwskills
+* _FLOAT
+* int
+* FLOAT
+* You will succeed
+Answer- 1 _FLOAT
+               2 Float
